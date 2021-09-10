@@ -6,6 +6,7 @@ Aplicações WordPress
 
 ### Todos criados com as seguintes Ferramentas
 1. php / WordPrees
-2. javascript / Jquery
-3. Bootstrap 4
+2. javascript
+3. Jquery
+4. Bootstrap 4
 
