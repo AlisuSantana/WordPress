@@ -31,7 +31,7 @@
 </p>
 
 <h2 align="center">
-  Sistema de conmentário
+  Sistema de comentário
 </h2>
 
 
